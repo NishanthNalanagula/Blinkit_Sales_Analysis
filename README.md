@@ -1,5 +1,7 @@
 # Blinkit Sales & Performance Analysis Dashboard (Power BI)
 
+### Live Interactive Dashboard Link : [click here](https://app.powerbi.com/view?r=eyJrIjoiMDJlZTI3ZDktMjk4MC00MzhmLWEwYjktYmE4NTM5OWQ2N2FhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ## Project Overview
 This project presents an end-to-end Business Intelligence solution built using Power BI, focused on analyzing retail data from the quick commerce domain (Blinkit). The dashboard provides actionable insights into sales performance, product trends, and outlet efficiency to support data-driven decision-making.
 
@@ -42,3 +44,9 @@ This dashboard enables stakeholders to:
 - Make informed decisions based on sales trends  
 - Optimize product and outlet strategies  
 - Improve overall business performance  
+
+### Lets connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishanthNalanagula)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-nalanagula/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinkunishanth8@gmail.com)
