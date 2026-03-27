@@ -35,7 +35,7 @@ This project presents an end-to-end Business Intelligence solution built using P
 - Observed trends in sales distribution across locations  
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+![Dashboard](https://github.com/NishanthNalanagula/Blinkit_Sales_Analysis/blob/main/Blinkit_Analysis_Dashboard.png)
 
 ## Business Impact
 This dashboard enables stakeholders to:
